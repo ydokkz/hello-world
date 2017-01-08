@@ -1,3 +1,3 @@
 # hello-world
-a short description
-Ecolo-G, Econo-Mi
+
+Well then. This isn't overwhelming.
